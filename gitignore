@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+dist/
+*.spec
+IT-Support-Toolkit.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Session/runtime data (remove this line if you want sessions tracked)
+sessions/
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
